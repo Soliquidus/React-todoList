@@ -1,13 +1,6 @@
 {
   "todos": [
     {
-      "userId": 2,
-      "id": 1,
-      "title": "Fusce posuere felis sed lacus.",
-      "completed": false,
-      "dueDate": "1615007761000"
-    },
-    {
       "userId": 1,
       "id": 2,
       "title": "Nullam molestie nibh in lectus.",
@@ -160,13 +153,6 @@
       "title": "Nunc nisl.",
       "completed": false,
       "dueDate": "1594387475000"
-    },
-    {
-      "userId": 2,
-      "id": 24,
-      "title": "Sed accumsan felis.",
-      "completed": true,
-      "dueDate": "1615898229000"
     },
     {
       "userId": 9,
